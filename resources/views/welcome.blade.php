@@ -1,2 +1,2 @@
 <?php
-echo "Homepage";
+echo "Git Testing";
